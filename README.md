@@ -11,10 +11,10 @@
 I love sharing my knowledge with others, and I do that through content creation on my Blog and YouTube channel. I'm a GitHub Star, Media Developer Expert at Cloudinary, an Auth0 Ambassador, and Nuxt.js Ambassador. When I'm not coding, you can find me geeking about photography and exploring different ways of documenting stories using photography.
 
 
-- 😄 My Pronouns: She/Her   
-- 💬 Ask me about: Vue, Jamstack, Building Career In Tech, Content Creation.
-- 📫 How to reach me: [@lauragift_](https://twitter.com/lauragift_)
-- ⚡ Fun fact: I enjoy cooking and I'm known as the Mistress of Nigerian Jollof. If you don't know what that is [check it out here](https://www.youtube.com/watch?v=kQs5lX91h98)
+- 😄 My Pronouns: He/Him  
+- 💬 Ask me about: Developer Java
+- 📫 How to reach me: [@r1verthebest_](https://twitter.com/r1verthebest_)
+- ⚡ Fun fact: My personality fits as an ESFJ, I love being persistent in everything I do. And I value Loyalty very much. If I ask of you, you will have of me.
 
 <!--
 **r1verthebest/r1verthebest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
