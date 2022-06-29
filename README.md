@@ -5,13 +5,13 @@
 </p>
 
 ---
-✨ I'm a frontend engineer and technical writer passionate about making the web accessible to everyone and advocating for building open and inclusive developer communities. 
+✨ I am a developer and amateur of the java programming language and I am proposed to advocate in everything in this virtual and vast community in technology, using my knowledge and making the best choices as far as possible.
 
-I love sharing my knowledge with others, and I do that through content creation on my Blog and YouTube channel. I'm a GitHub Star, Media Developer Expert at Cloudinary, an Auth0 Ambassador, and Nuxt.js Ambassador. When I'm not coding, you can find me geeking about photography and exploring different ways of documenting stories using photography.
+I love what I do and I like even more how much I dedicate myself to this area. I chose programming because I see technology as a fundamental part of changing the world. And I'm willing to help other people who have certain difficulties in this area and I'm fit for everything in this world.
 
 
 - 😄 My Pronouns: He/Him  
-- 💬 Ask me about: Developer Java
+- 💬 Ask me about: Developer Java & Entrepreneur
 - 📫 How to reach me: [@r1verthebest_](https://twitter.com/r1verthebest_)
 - ⚡ Fun fact: My personality fits as an ESFJ, I love being persistent in everything I do. And I value Loyalty very much. If I ask of you, you will have of me.
 
