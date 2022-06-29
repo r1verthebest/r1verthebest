@@ -1,8 +1,7 @@
 
-<h3 align="center">👋 Hi there! I'm Gift Egwuenu</h3>
+<h3 align="center">👋 Hi there! I'm r1verthebest</h3>
 <p align="center">
-  <a href="https://www.giftegwuenu.dev">Website</a> •
-  <a href="https://twitter.com/lauragift_">Twitter</a>
+  <a href="https://twitter.com/r1verthebest_">Twitter</a>
 </p>
 
 ---
