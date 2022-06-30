@@ -1,7 +1,7 @@
 
-<h3 align="center">👋 Hi there! I'm r1verthebest</h3>
-<p align="center">
+<h3 align="center">👋 Hi there! I'm r1verthebest </h3>
   <img src="https://user-images.githubusercontent.com/59892753/122819440-d97f2e80-d2b0-11eb-87dd-0d6737de5452.png" width="350px" align="right">
+<p align="center">
 </p>
 
 ---
