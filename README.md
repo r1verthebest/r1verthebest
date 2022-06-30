@@ -12,7 +12,7 @@ I love what I do and I like even more how much I dedicate myself to this area. I
 
 - 😄 My Pronouns: He/Him  
 - 💬 Ask me about: Developer Java & Entrepreneur
-- 📫 How to reach me: [@r1verthebest_](https://twitter.com/r1verthebest)
+- 📫 How to reach me: [@r1verthebest](https://twitter.com/r1verthebest)
 - ⚡ Fun fact: My personality fits as an ESFJ, I love being persistent in everything I do. And I value Loyalty very much. If I ask of you, you will have of me. And I'm the CEO of my FeelMC server, a minigames network.
 - <h3> Skills </h3>
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
