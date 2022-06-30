@@ -1,7 +1,7 @@
 
 <h3 align="center">👋 Hi there! I'm r1verthebest</h3>
 <p align="center">
-  <a href="https://twitter.com/r1verthebest_">Twitter</a>
+  <a href="https://twitter.com/r1verthebest_">Twitter - </a>
   <a href="https://discord.gg/PyERp4vtEF">FeelMC - Minecraft Server</a>
 </p>
 
