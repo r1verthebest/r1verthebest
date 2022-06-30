@@ -14,6 +14,7 @@ I love what I do and I like even more how much I dedicate myself to this area. I
 - 💬 Ask me about: Developer Java & Entrepreneur
 - 📫 How to reach me: [@r1verthebest_](https://twitter.com/r1verthebest)
 - ⚡ Fun fact: My personality fits as an ESFJ, I love being persistent in everything I do. And I value Loyalty very much. If I ask of you, you will have of me.
+- <h3> 📌 &nbsp;Minhas Skills </h3>
 
 <!--
 **r1verthebest/r1verthebest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
