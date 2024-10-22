@@ -14,7 +14,7 @@
 
 🔑 Junte-se a mim na busca constante pela excelência técnica e na criação de soluções tecnológicas que moldam o futuro. Vamos trabalhar juntos para alcançar resultados extraordinários, linha de código por linha de código.
 
-Contato: r1verthebestofc@gmail.com
+Contato: mynameisr1ver@outlook.com
 
 Sinta-se à vontade para ajustar esta descrição de acordo com sua apresentação profissional.
 
