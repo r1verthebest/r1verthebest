@@ -1,41 +1,41 @@
-
-<h3 align="center">👋 Hi there! I'm r1verthebest </h3>
-  <img src="https://user-images.githubusercontent.com/59892753/122819440-d97f2e80-d2b0-11eb-87dd-0d6737de5452.png" width="350px" align="right">
+<h3 align="center">👋 Olá! Eu sou o R1ver</h3>
+<img src="https://user-images.githubusercontent.com/59892753/122819440-d97f2e80-d2b0-11eb-87dd-0d6737de5452.png" width="350px" align="right">
 <p align="center">
 </p>
 
 ---
-👨‍💼 Francisco Ferreira: Experienced Developer | Turning Ideas into Quality Code
+👨‍💼 Francisco Ferreira: Desenvolvedor Experiente | Transformando Ideias em Código de Qualidade
 
-🔥 Welcome to my world of development! I'm Francisco Ferreira, an experienced and passionate developer, at just 17 years old, with 5 years of expertise in crafting cutting-edge technological solutions.
+🔥 Bem-vindo ao meu mundo de desenvolvimento! Sou Francisco Ferreira, um desenvolvedor experiente e apaixonado, com apenas 18 anos, e 5 anos de expertise em criar soluções tecnológicas inovadoras.
 
-🚀 My skills span a variety of languages and technologies, and I'm always eager to embrace new challenges. With a results-driven approach, I'm committed to transforming ideas into quality code that drives project success.
+🚀 Minhas habilidades abrangem uma variedade de linguagens e tecnologias, e estou sempre ansioso para enfrentar novos desafios. Com uma abordagem orientada a resultados, estou comprometido em transformar ideias em código de qualidade que impulsiona o sucesso dos projetos.
 
-💼 As you explore my repository, you'll find a diverse portfolio of projects showcasing my ability to create innovative and effective solutions. I have a proven track record of successful collaborations and I'm ready to bring my passion for development to your team.
+💼 Ao explorar meu repositório, você encontrará um portfólio diversificado de projetos que demonstram minha capacidade de criar soluções inovadoras e eficazes. Tenho um histórico comprovado de colaborações bem-sucedidas e estou pronto para trazer minha paixão pelo desenvolvimento para sua equipe.
 
-🔑 Join me in the constant pursuit of technical excellence and the creation of technological solutions that shape the future. Let's work together to achieve extraordinary results, line of code by line of code.
+🔑 Junte-se a mim na busca constante pela excelência técnica e na criação de soluções tecnológicas que moldam o futuro. Vamos trabalhar juntos para alcançar resultados extraordinários, linha de código por linha de código.
 
-Contact: r1verthebestofc@gmail.com
+Contato: r1verthebestofc@gmail.com
 
-Feel free to adjust this description according to your professional presentation.
-- <h3> Skills </h3>
+Sinta-se à vontade para ajustar esta descrição de acordo com sua apresentação profissional.
+
+- <h3> Habilidades </h3>
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://camo.githubusercontent.com/932123bf240349f3785c02228b113b06299079e8740f480c767e8335fd6d752a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f53514c6974652d3037343035453f7374796c653d666f722d7468652d6261646765266c6f676f3d73716c697465266c6f676f436f6c6f723d7768697465)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=r1verthebest&count_private=true&show_icons=true&theme=dracula)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=r1verthebest&count_private=true&show_icons=true&theme=dracula)
 <!--
-**r1verthebest/r1verthebest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**r1verthebest/r1verthebest** é um repositório ✨ _especial_ ✨ porque seu `README.md` (este arquivo) aparece no seu perfil do GitHub.
 
-Here are some ideas to get you started:
+Aqui estão algumas ideias para você começar:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 Atualmente estou trabalhando em ...
+- 🌱 Estou aprendendo ...
+- 👯 Estou buscando colaborar em ...
+- 🤔 Estou procurando ajuda com ...
+- 💬 Pergunte-me sobre ...
+- 📫 Como entrar em contato: ...
+- 😄 Pronomes: ...
+- ⚡ Curiosidade: ...
 -->
