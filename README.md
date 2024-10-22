@@ -4,19 +4,17 @@
 </p>
 
 ---
-👨‍💼 Francisco Ferreira: Desenvolvedor Experiente | Transformando Ideias em Código de Qualidade
+👨‍💼 Francisco Ferreira: Desenvolvedor Back-End | Transformando Ideias em Soluções Tecnológicas
 
-🔥 Bem-vindo ao meu mundo de desenvolvimento! Sou Francisco Ferreira, um desenvolvedor experiente e apaixonado, com apenas 18 anos, e 5 anos de expertise em criar soluções tecnológicas inovadoras.
+🔍 Sou um desenvolvedor Back-End com 5 anos de experiência, dedicado a criar soluções robustas e escaláveis. Com 18 anos, trago uma perspectiva jovem e inovadora para o desenvolvimento de software.
 
-🚀 Minhas habilidades abrangem uma variedade de linguagens e tecnologias, e estou sempre ansioso para enfrentar novos desafios. Com uma abordagem orientada a resultados, estou comprometido em transformar ideias em código de qualidade que impulsiona o sucesso dos projetos.
+🚀 Tenho habilidades em várias linguagens de programação, como Java e Python, além de forte conhecimento em bancos de dados, como MySQL. Estou sempre em busca de aprimorar minhas habilidades e me manter atualizado nas tendências do setor.
 
-💼 Ao explorar meu repositório, você encontrará um portfólio diversificado de projetos que demonstram minha capacidade de criar soluções inovadoras e eficazes. Tenho um histórico comprovado de colaborações bem-sucedidas e estou pronto para trazer minha paixão pelo desenvolvimento para sua equipe.
+💡 Meu portfólio reflete um histórico de projetos bem-sucedidos, onde colaborei com equipes para entregar produtos de alta qualidade. Estou pronto para contribuir com minha experiência e paixão pela tecnologia em sua equipe.
 
-🔑 Junte-se a mim na busca constante pela excelência técnica e na criação de soluções tecnológicas que moldam o futuro. Vamos trabalhar juntos para alcançar resultados extraordinários, linha de código por linha de código.
+🌱 Estou aberto a novas oportunidades e colaborações. Vamos juntos transformar ideias em soluções tecnológicas que impactam positivamente o mundo.
 
-Contato: mynameisr1ver@outlook.com
-
-Sinta-se à vontade para ajustar esta descrição de acordo com sua apresentação profissional.
+📧 Entre em contato: r1verthebestofc@gmail.com
 
 - <h3> Habilidades </h3>
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
